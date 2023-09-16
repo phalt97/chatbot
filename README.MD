@@ -1,4 +1,4 @@
-# Simple chat bot - Pytorch
+# Simple Chatbot - Pytorch
 
 <p align="center">
   <img alt="chat" src="image/chat.png">
